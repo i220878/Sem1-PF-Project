@@ -4,8 +4,8 @@
  * TIP: After completing your project, you can make changes for aesthetics.
  * */
 
-// Name: Muhammad Ibrahim Awais
-// Student ID: 22i-0878
+// Name:
+// Student ID:
 // Assignment: PF Semester Project
 
 //---Title: PF-Project, Fall-2022 for BS(CS)---//
