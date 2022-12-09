@@ -5,10 +5,6 @@
  * TIP: Understand thoroughly before getting started with coding.
  * */
 
-// Name: Muhammad Ibrahim Awais
-// Student ID: 22i-0878
-// Assignment: PF Semester Project
-
 //---Piece Starts to Fall When Game Starts---//
 #include <iostream>
 
