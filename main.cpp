@@ -9,10 +9,6 @@
  * TIP: You can study SFML for drawing scenes, sprites and window.
  * */
 
-// Name: Muhammad Ibrahim Awais
-// Student ID: 22i-0878
-// Assignment: PF Semester Project
-
 #include <string>
 #include <fstream> // For file handling
 #include <SFML/Graphics.hpp>
