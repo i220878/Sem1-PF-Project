@@ -3,8 +3,8 @@
  * TIP: Name the array what is already been coded to avoid any unwanted errors.
  */
 
-// Name: Muhammad Ibrahim Awais
-// Student ID: 22i-0878
+// Name:
+// Student ID:
 // Assignment: PF Semester Project
 
 // point_1 is x and y coordinates.
