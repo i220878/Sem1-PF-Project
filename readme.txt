@@ -1,3 +1,6 @@
+Gameplay video:
+https://youtu.be/sw7ajcEk27M
+
 Install GNU G++ Compiler:
 sudo apt-get install g++
 
