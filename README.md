@@ -1,3 +1,6 @@
+# Sem1-PF-Project
+Tetris with C++ and SFML
+
 Gameplay video:
 https://youtu.be/sw7ajcEk27M
 
